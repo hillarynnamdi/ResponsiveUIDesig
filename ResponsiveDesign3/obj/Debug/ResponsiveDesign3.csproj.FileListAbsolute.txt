@@ -1,0 +1,9 @@
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\ResponsiveUIDesign\ResponsiveDesign3\bin\Debug\ResponsiveDesign3.exe.config
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\ResponsiveUIDesign\ResponsiveDesign3\bin\Debug\ResponsiveDesign3.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\ResponsiveUIDesign\ResponsiveDesign3\bin\Debug\ResponsiveDesign3.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\ResponsiveUIDesign\ResponsiveDesign3\obj\Debug\ResponsiveDesign3.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\ResponsiveUIDesign\ResponsiveDesign3\obj\Debug\ResponsiveDesign3.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\ResponsiveUIDesign\ResponsiveDesign3\obj\Debug\ResponsiveDesign3.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\ResponsiveUIDesign\ResponsiveDesign3\obj\Debug\ResponsiveDesign3.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\ResponsiveUIDesign\ResponsiveDesign3\obj\Debug\ResponsiveDesign3.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\ResponsiveUIDesign\ResponsiveDesign3\obj\Debug\ResponsiveDesign3.pdb
